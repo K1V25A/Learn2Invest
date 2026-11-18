@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-> 🚧 Deployment in progress — run locally using the steps below.
+🚀 **[learn2-invest.vercel.app](https://learn2-invest.vercel.app)**
 
 ---
 
